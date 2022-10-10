@@ -1,0 +1,7 @@
+k__Bacteria
+p__Verrucomicrobia
+c__Verrucomicrobiae
+o__Verrucomicrobiales
+f__Verrucomicrobiaceae
+g__Akkermansia
+s__muciniphila

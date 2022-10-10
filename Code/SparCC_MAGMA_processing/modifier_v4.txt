@@ -1,0 +1,5 @@
+MODIFY the input files, both at 6m and 9m 
+
+C:\Users\fmelo\Documents\GitHub\microbiome_dynamics\Data\SparCC_data\GlobNet9M
+
+To remove the #OTU ID 

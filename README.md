@@ -3,7 +3,7 @@
 **Contribitors to the project:**\
 Behnam Yousefi, Federico Melograna, Gianluca Galazzo, Niels van Best, Monique Mommers, John Penders, Benno Schwikowski and Kristel van Steen
 
-The manuscript is submitted to a journal ...
+***The manuscript is submitted to a journal ...***
 
 **Abstract**\
 *Background:* Longitudinal analysis of multivariate individual-specific microbiome profiles over time or across conditions remains a daunting task. The vast majority of statistical tools and methods available to study the microbiota are based upon cross-sectional data. Over the past few years, several attempts have been made to model the dynamics of bacterial species over time or across conditions. However, the field needs novel views on how to incorporate individual-specific microbial associations in temporal analyses when the focus lies on microbial interactions.\

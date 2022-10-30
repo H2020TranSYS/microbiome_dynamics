@@ -129,3 +129,4 @@ Distance = function(x, y, method = "cosine"){
   )
   return(dist)
 }
+
